@@ -1,8 +1,8 @@
 # Hotel-Review-Classification
-Overview
+# Overview
 In this assignment we will write a  classifier to identify hotel reviews as either truthful or deceptive, and either positive or negative. We will be using the word tokens as features for classification.
 
-Data
+# Data
 A set of training and development data is available as a compressed ZIP archive on Blackboard. The uncompressed archive contains the following files:
 
 A top-level directory with two sub-directories, one for positive reviews and another for negative reviews (plus license and readme files which you won’t need for the exercise).
