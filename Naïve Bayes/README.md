@@ -1,6 +1,6 @@
 
 # Programs
-You will write two programs in Python 3: nblearn.py will learn a naive Bayes model from the training data, and nbclassify.py will use the model to classify new data.
+We will write two programs in Python 3: nblearn.py will learn a naive Bayes model from the training data, and nbclassify.py will use the model to classify new data.
 
 The learning program will be invoked in the following way:
 
