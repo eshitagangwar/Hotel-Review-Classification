@@ -1,7 +1,7 @@
 # Programs
 The perceptron algorithms appear in Hal Daumé III, A Course in Machine Learning (v. 0.99 draft), Chapter 4: The Perceptron.
 
-We will write two programs in Python 3: perceplearn.py will learn perceptron models (vanilla and averaged) from the training data, and percepclassify.py will use the models to classify new data. You are encouraged to reuse your own code from Coding Exercise 3 for reading the data and writing the output, so that you can concentrate on implementing the classification algorithm.
+We will write two programs in Python 3: perceplearn.py will learn perceptron models (vanilla and averaged) from the training data, and percepclassify.py will use the models to classify new data. 
 
 The learning program will be invoked in the following way:
 
